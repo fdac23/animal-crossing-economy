@@ -1,24 +1,24 @@
-name,price,color
-Amaranth,150,red
-Artichoke,160,green
-Beet,100,purple
-Bok Choy,80,green
-Cauliflower,175,white
-Corn,50,yellow
-Eggplant,60,purple
-Fiddlehead Fern,90,green
-Garlic,60,
-Green Bean,40,green
-Hops,25,green
-Kale,110,green
-Parsnip,35,yellow
-Potato,80,orange
-Pumpkin,320,orange
-Radish,90,red
-Red Cabbage,260,purple
-Taro Root,100,orange
-Tea Leaves,50,green
-Tomato,60,red
-Unmilled Rice,30,orange
-Wheat,25,yellow
-Yam,160,orange
+name,seed,growthtime,price,color
+Amaranth,Amaranth Seeds,7 days,150,red
+Artichoke,Artichoke Seeds,8 days,160,green
+Beet,Beet Seeds,6 days,100,purple
+Bok Choy,Bok Choy Seeds,4 days,80,green
+Cauliflower,Cauliflower Seeds,12 days,175,white
+Corn,Corn Seeds,14 days,50,yellow
+Eggplant,Eggplant Seeds,5 days,60,purple
+Fiddlehead Fern,,,90,green
+Garlic,Garlic Seeds,4 days,60,
+Green Bean,Bean Starter,10 days,40,green
+Hops,Hops Starter,11 days,25,green
+Kale,Kale Seeds,6 days,110,green
+Parsnip,Parsnip Seeds,4 days,35,yellow
+Potato,Potato Seeds,6 days,80,orange
+Pumpkin,Pumpkin Seeds,13 days,320,orange
+Radish,Radish Seeds,6 days,90,red
+Red Cabbage,Red Cabbage Seeds,9 days,260,purple
+Taro Root,Taro Tuber,10 days,100,orange
+Tea Leaves,Tea Sapling,20 days,50,green
+Tomato,Tomato Seeds,11 days,60,red
+Unmilled Rice,Rice Shoot,8 days,30,orange
+Wheat,Wheat Seeds,4 days,25,yellow
+Yam,Yam Seeds,10 days,160,orange
