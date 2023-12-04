@@ -1,27 +1,27 @@
-name,seed,growthtime,price,color
-Ancient Fruit,Ancient Seeds,28 days,550,blue
-Apple,Apple Sapling,28 days,100,red
-Apricot,Apricot Sapling,28 days,50,orange
-Banana,Banana Sapling,28 days,150,yellow
+name,seedprice,growthtime,price,color
+Ancient Fruit,,28 days,550,blue
+Apple,4000,28 days,100,red
+Apricot,2000,28 days,50,orange
+Banana,2500,28 days,150,yellow
 Blackberry,,,22,blue
-Blueberry,Blueberry Seeds,13 days,50,blue
+Blueberry,80,13 days,50,blue
 Cactus Fruit,,12 days,75,green
-Cherry,Cherry Sapling,28 days,80,red
+Cherry,3400,28 days,80,red
 Coconut,,,300,brown
-Cranberries,Cranberry Seeds,7 days,75,red
+Cranberries,240,7 days,75,red
 Crystal Fruit,,,450,blue
-Grape,Summer Seeds,7 days,80,purple
-Hot Pepper,Pepper Seeds,5 days,40,red
-Mango,Mango Sapling,28 days,130,yellow
-Melon,Melon Seeds,12 days,250,pink
-Orange,Orange Sapling,28 days,100,orange
-Peach,Peach Sapling,28 days,140,red
-Pineapple,Pineapple Seeds,14 days,300,yellow
-Pomegranate,Pomegranate Sapling,28 days,140,purple
-Qi Fruit,Qi Bean,4 days,3,blue
-Rhubarb,Rhubarb Seeds,13 days,220,red
+Grape,60,7 days,80,purple
+Hot Pepper,40,5 days,40,red
+Mango,2500,28 days,130,yellow
+Melon,80,12 days,250,pink
+Orange,4000,28 days,100,orange
+Peach,6000,28 days,140,red
+Pineapple,400,14 days,300,yellow
+Pomegranate,6000,28 days,140,purple
+Qi Fruit,,4 days,3,blue
+Rhubarb,100,13 days,220,red
 Salmonberry,,,5,red
 Spice Berry,,,240,orange
-Starfruit,Starfruit Seeds,13 days,750,yellow
-Strawberry,Strawberry Seeds,8 days,120,red
+Starfruit,400,13 days,750,yellow
+Strawberry,100,8 days,120,red
 Wild Plum,,,240,purple
