@@ -1,44 +1,44 @@
 Name,Sell,Where/How,NH Jan,SH Jan,NH Feb,SH Feb,NH Mar,SH Mar,NH Apr,SH Apr,NH May,SH May,NH Jun,SH Jun,NH Jul,SH Jul,NH Aug,SH Aug,NH Sep,SH Sep,NH Oct,SH Oct,NH Nov,SH Nov,NH Dec,SH Dec
 anchovy,30,Sea,NA,NA,NA,NA,All day,All day,All day,All day,All day,All day,NA,NA,NA,NA,NA,NA,All day,All day,All day,All day,All day,All day,NA,NA
 tuna,100,Sea,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,6 AM – 7 PM
-sardine,40,Sea,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM
+sardine,40,Sea,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA
 bream,45,[],6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM
 largemouth bass,100,Pond,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM
 smallmouth bass,50,River,NA,NA,NA,NA,All day,All day,All day,All day,All day,All day,NA,NA,NA,NA,NA,NA,All day,All day,All day,All day,All day,All day,NA,NA
-rainbow trout,65,Pond,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,NA,NA
-salmon,75,[],NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,NA
-walleye,105,Pond,2 PM – 2 AM,2 PM – 2 AM,2 PM – 2 AM,2 PM – 2 AM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2 PM – 2 AM,2 PM – 2 AM,2 PM – 2 AM,2 PM – 2 AM,2 PM – 2 AM,2 PM – 2 AM,2 PM – 2 AM,2 PM – 2 AM
-perch,55,Pond,All day,All day,All day,All day,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,All day,All day
+rainbow trout,65,Pond,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,NA,NA,6 AM – 7 PM
+salmon,75,[],NA,NA,NA,NA,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,NA,NA
+walleye,105,Pond,2 PM – 2 AM,NA,2 PM – 2 AM,NA,NA,2 PM – 2 AM,NA,2 PM – 2 AM,NA,2 PM – 2 AM,NA,2 PM – 2 AM,NA,2 PM – 2 AM,NA,2 PM – 2 AM,2 PM – 2 AM,NA,2 PM – 2 AM,NA,2 PM – 2 AM,NA,2 PM – 2 AM,NA
+perch,55,Pond,All day,NA,All day,NA,NA,NA,NA,NA,NA,NA,NA,All day,NA,All day,NA,All day,NA,NA,NA,NA,NA,NA,All day,NA
 carp,30,River,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
 catfish,200,Pond,NA,NA,NA,NA,6 AM – 2 AM,6 AM – 2 AM,6 AM – 2 AM,6 AM – 2 AM,6 AM – 2 AM,6 AM – 2 AM,NA,NA,NA,NA,NA,NA,6 AM – 2 AM,6 AM – 2 AM,6 AM – 2 AM,6 AM – 2 AM,6 AM – 2 AM,6 AM – 2 AM,NA,NA
 pike,100,['Forest'],All day,All day,All day,All day,NA,NA,NA,NA,NA,NA,All day,All day,All day,All day,All day,All day,NA,NA,NA,NA,NA,NA,All day,All day
-sunfish,30,[],NA,NA,NA,NA,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,NA,NA
+sunfish,30,[],NA,6 AM – 7 PM,NA,6 AM – 7 PM,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM
 red mullet,75,Sea,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,6 AM – 7 PM
-herring,30,Sea,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,All day,All day
+herring,30,Sea,All day,NA,All day,NA,All day,NA,All day,NA,All day,NA,NA,All day,NA,All day,NA,All day,NA,All day,NA,All day,NA,All day,All day,NA
 eel,85,Sea,NA,NA,NA,NA,4 PM – 2 AM,4 PM – 2 AM,4 PM – 2 AM,4 PM – 2 AM,4 PM – 2 AM,4 PM – 2 AM,NA,NA,NA,NA,NA,NA,4 PM – 2 AM,4 PM – 2 AM,4 PM – 2 AM,4 PM – 2 AM,4 PM – 2 AM,4 PM – 2 AM,NA,NA
 octopus,150,Sea,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,NA,NA,NA,NA,NA,NA,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,NA,NA,NA,NA,NA,NA,5 PM – 2 AM,5 PM – 2 AM
-red snapper,50,Sea,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM
-squid,80,Sea,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6 PM – 2 AM,6 PM – 2 AM
-sea cucumber,75,Sea,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM
-super cucumber,250,Sea,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,NA,NA,NA,NA,NA,NA,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM
+red snapper,50,Sea,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,6 AM – 7 PM
+squid,80,Sea,6 PM – 2 AM,NA,6 PM – 2 AM,NA,NA,NA,NA,NA,NA,NA,NA,6 PM – 2 AM,NA,6 PM – 2 AM,NA,6 PM – 2 AM,NA,NA,NA,NA,NA,NA,6 PM – 2 AM,NA
+sea cucumber,75,Sea,5 PM – 2 AM,NA,5 PM – 2 AM,NA,NA,5 PM – 2 AM,NA,5 PM – 2 AM,NA,5 PM – 2 AM,NA,5 PM – 2 AM,NA,5 PM – 2 AM,NA,5 PM – 2 AM,5 PM – 2 AM,NA,5 PM – 2 AM,NA,5 PM – 2 AM,NA,5 PM – 2 AM,NA
+super cucumber,250,Sea,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,NA,5 PM – 2 AM,NA,5 PM – 2 AM,NA,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,5 PM – 2 AM,NA,5 PM – 2 AM,NA,5 PM – 2 AM,NA,5 PM – 2 AM,5 PM – 2 AM
 ghostfish,45,Mines,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
 stonefish,300,Mines,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
 ice pip,500,Mines,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
 lava eel,700,Mines,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
 sandfish,75,Pond,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM
 scorpion carp,150,Pond,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM
-flounder,100,Sea,NA,NA,NA,NA,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,6 AM – 8 PM,NA,NA,NA,NA,NA,NA,NA,NA
-midnight carp,150,Pond,0 PM – 2 AM,0 PM – 2 AM,0 PM – 2 AM,0 PM – 2 AM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0 PM – 2 AM,0 PM – 2 AM,0 PM – 2 AM,0 PM – 2 AM,0 PM – 2 AM,0 PM – 2 AM,0 PM – 2 AM,0 PM – 2 AM
+flounder,100,Sea,NA,6 AM – 8 PM,NA,6 AM – 8 PM,6 AM – 8 PM,NA,6 AM – 8 PM,NA,6 AM – 8 PM,NA,6 AM – 8 PM,NA,6 AM – 8 PM,NA,6 AM – 8 PM,NA,NA,6 AM – 8 PM,NA,6 AM – 8 PM,NA,6 AM – 8 PM,NA,6 AM – 8 PM
+midnight carp,150,Pond,0 PM – 2 AM,NA,0 PM – 2 AM,NA,NA,0 PM – 2 AM,NA,0 PM – 2 AM,NA,0 PM – 2 AM,NA,0 PM – 2 AM,NA,0 PM – 2 AM,NA,0 PM – 2 AM,0 PM – 2 AM,NA,0 PM – 2 AM,NA,0 PM – 2 AM,NA,0 PM – 2 AM,NA
 sturgeon,200,Pond,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,6 AM – 7 PM
-tiger trout,150,[],6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM
+tiger trout,150,[],6 AM – 7 PM,NA,6 AM – 7 PM,NA,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA
 bullhead,75,Pond,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
-tilapia,75,Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6 AM – 2 PM,6 AM – 2 PM,6 AM – 2 PM,6 AM – 2 PM,6 AM – 2 PM,6 AM – 2 PM,6 AM – 2 PM,6 AM – 2 PM,6 AM – 2 PM,6 AM – 2 PM,6 AM – 2 PM,6 AM – 2 PM,NA,NA
+tilapia,75,Sea,NA,6 AM – 2 PM,NA,6 AM – 2 PM,NA,6 AM – 2 PM,NA,6 AM – 2 PM,NA,6 AM – 2 PM,6 AM – 2 PM,NA,6 AM – 2 PM,NA,6 AM – 2 PM,NA,6 AM – 2 PM,NA,6 AM – 2 PM,NA,6 AM – 2 PM,NA,NA,6 AM – 2 PM
 chub,50,River,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
-dorado,100,River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,NA,NA
-albacore,75,Sea,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM,6 PM – 2 AM
-shad,60,[],NA,NA,NA,NA,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,NA,NA
-lingcod,120,Pond,All day,All day,All day,All day,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,All day,All day
-halibut,80,Sea,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,NA,NA,NA,NA,NA,NA,7 PM – 2 AM,7 PM – 2 AM
+dorado,100,River,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,6 AM – 7 PM,NA,NA,NA,NA,NA,NA,NA,NA,6 AM – 7 PM
+albacore,75,Sea,6 PM – 2 AM,NA,6 PM – 2 AM,NA,NA,6 PM – 2 AM,NA,6 PM – 2 AM,NA,6 PM – 2 AM,NA,6 PM – 2 AM,NA,6 PM – 2 AM,NA,6 PM – 2 AM,6 PM – 2 AM,NA,6 PM – 2 AM,NA,6 PM – 2 AM,NA,6 PM – 2 AM,NA
+shad,60,[],NA,9 AM – 2 AM,NA,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,NA,9 AM – 2 AM,NA,9 AM – 2 AM,NA,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,9 AM – 2 AM,NA,9 AM – 2 AM
+lingcod,120,Pond,All day,NA,All day,NA,NA,NA,NA,NA,NA,NA,NA,All day,NA,All day,NA,All day,NA,NA,NA,NA,NA,NA,All day,NA
+halibut,80,Sea,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,NA,7 PM – 2 AM,NA,7 PM – 2 AM,NA,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM,NA,7 PM – 2 AM,NA,7 PM – 2 AM,NA,7 PM – 2 AM,7 PM – 2 AM,7 PM – 2 AM
 woodskip,75,Pond,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
 void salmon,150,Pond,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
 slimejack,100,River,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day
